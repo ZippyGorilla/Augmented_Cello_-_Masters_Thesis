@@ -1,0 +1,17 @@
+! 12_Note_Just_Temperament_Tuning.scl
+!
+Just Temperament for A 441 base?
+12
+!
+111.73 ! m2
+203.91 ! M2
+315.64 ! m3
+386.31 ! M3
+498.04 ! P4
+582.51 ! Tritone
+701.96 ! P5
+813.69 ! m6
+884.36 ! M6
+996.09 ! m7
+1088.27 ! M7
+2/1 ! Octave
