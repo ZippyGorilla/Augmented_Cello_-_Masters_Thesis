@@ -1,0 +1,27 @@
+Participant,Timestamp,Context,Quote,A1_ConditionalAdoption,A2_LearnabilityCompetence,A3_EffortRewardTradeoff,B1_PracticalIntegrationCompatibility,B2_SetupFrictionHassle,B3_ReliabilityBreakdown,B4_TechnologyAnxiety,C1_AcousticFirstIdentity,C2_PerformanceIntegration,C3_ExploratoryFun,D1_SuperficialFamiliarityExperimental
+P1,0:00:45,Q1 Why don't you use DMIs/EMIs in active performance? What would it take?,"Not too much really if it's playable enough, meaning that I, you know, I can get my heads around",1,1,0,0,0,0,0,0,0,0,0
+P1,0:00:58,Q1,how to create sounds with it and to an extent where it becomes a tool for performance.,1,1,0,0,0,0,0,0,0,0,0
+P1,0:01:07,Q1,"So if I can acquire a certain, just a decent mastery or understanding of how it works and it does work, yeah, up to that extent, then that's all I need really.",0,1,0,0,0,0,0,0,0,0,0
+P1,0:01:28,Q1,"I mean, I'm thinking also that the other thing is that it just needs to fit in the rest of the gear that I have, for example, so, but that's more practical talk, I guess.",0,0,0,1,0,0,0,0,0,0,0
+P1,0:01:42,Q1,"does it have the right MIDI interface or, yeah, cable, you know, there's MIDI A, MIDI B",0,0,0,1,0,0,0,0,0,0,0
+P1,0:02:13,Q1a Other contexts you use DMIs/EMIs?,"I would definitely, I mean, I use them definitely more at home than performances.",0,0,0,0,0,0,0,0,1,0,0
+P1,0:07:10,Q6 What do you like about this instrument?,I like that it's a cello.,0,0,0,0,0,0,0,1,0,0,0
+P1,0:08:29,Q7 What factors influence you to stop using a DMIs/EMIs?,"If it breaks, this guy just broke.",0,0,0,0,0,1,0,0,0,0,0
+P1,0:09:08,Q7,because I don't have enough time to do that new thing and the other older things that I have.,0,0,1,0,0,0,0,0,0,0,0
+P1,0:11:54,Q10 Familiar with theremin/laser harp?,"Theremin, yeah.",0,0,0,0,0,0,0,0,0,0,1
+P1,0:12:16,Q10c Do you know how to use them?,Not really.,0,0,0,0,0,0,0,0,0,0,1
+P2,0:00:49,Q1,I would say I would want someone to teach me and like to know how to use the the programs or use the synthesizers,0,1,0,0,0,0,0,0,0,0,0
+P2,0:01:08,Q1,"But I just, I don't know which tools to use and I don't know how.",0,1,0,0,0,0,0,0,0,0,0
+P2,0:01:13,Q1,"And also I'm a bit afraid of technology, but that's a personal issue.",0,0,0,0,0,0,1,0,0,0,0
+P2,0:02:51,"Q4 During a typical performance, what percentage of time do you use it?",I'd say maybe 10% or 15%.,0,0,0,0,0,0,0,0,1,0,0
+P2,0:05:10,Q7,I think maybe it's a bit of a fuss.,0,0,0,0,1,0,0,0,0,0,0
+P2,0:05:24,Q7,"connecting the right stuff, making sure that everything is connected and working properly.",0,0,0,0,1,0,0,0,0,0,0
+P2,0:03:29,Q6,"I liked that it was kind of not the same, or like it is the same instrument because I was still playing the cello, but it's a bit different.",0,0,0,0,0,0,0,1,0,0,0
+P2,0:07:38,Q10b Have you watched someone else perform with them?,"Not live, but I've looked at videos and now.",0,0,0,0,0,0,0,0,0,0,1
+P2,0:07:50,Q10c,"I've never had contact with them myself, but I kind of know that one hand has to, is doing one thing and the other is controlling the pitch.",0,0,0,0,0,0,0,0,0,0,1
+P3,0:00:33,Q1,"I mean, if I see some potential usage, maybe like different way of playing cello, for example, I would be interested, but not in generic way, like, I don't know, if it wouldn't be exactly, yeah.",1,0,0,0,0,0,0,1,0,0,0
+P3,0:01:32,Q1a / Q3 (duration),"I don't know, like I tried like a couple of times, but not persistently.",0,0,1,0,0,0,0,0,0,0,0
+P3,0:02:25,Q6 / Q7,"I mean, it was just for fun.",0,0,0,0,0,0,0,0,0,1,0
+P3,0:04:03,Q9 How often does your musical performance setup change?,It's mostly just cello.,0,0,0,0,0,0,0,1,0,0,0
+P3,0:04:42,Q10b,"No, I just watched some good videos on YouTube.",0,0,0,0,0,0,0,0,0,0,1
+P3,0:05:02,Q10c,"I mean, there's like the movement of the hands that there's some magnetism thing I guess.",0,0,0,0,0,0,0,0,0,0,1
